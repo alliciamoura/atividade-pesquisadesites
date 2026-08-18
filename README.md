@@ -24,7 +24,8 @@ A pesquisa consistiu em selecionar e analisar criticamente dois sites reais com 
 ## Análise dos Sites Selecionados
 
 ### Exemplo BOM: 
-* **Link do site:**  https://www.studio-thomas.com/ * **Justificativa:**
+* **Link do site:**  https://www.studio-thomas.com/
+* * **Justificativa:**
   * **Tipografia:** Uso correto de hierarquia (títulos destacados, fontes legíveis e bom espaçamento entre linhas).
   * **Cores:** Paleta harmônica que direciona o olhar do usuário para os elementos mais importantes (chamadas para ação/CTAs).
   * **UX/UI:** Layout limpo, excelente contraste de fundo e carregamento fluido.
