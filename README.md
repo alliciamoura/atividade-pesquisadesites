@@ -5,10 +5,10 @@ Este repositório contém a resolução da atividade prática da unidade curricu
 ---
 
 ## Integrantes do Grupo
-* [Allicia]
-* [Emanuelly]
-* [Gabriel Viezzer]
-* [Gustavo]
+* Allicia
+* Emanuelly
+* Gabriel Viezzer
+* Gustavo
 
 ---
 
