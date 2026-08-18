@@ -16,8 +16,8 @@ Este repositório contém a resolução da atividade prática da unidade curricu
 
 A pesquisa consistiu em selecionar e analisar criticamente dois sites reais com base nas diretrizes de design visual:
 
-1. **Exemplo BOM ( ):** Um site que segue as boas práticas de harmonia, contraste, hierarquia tipográfica e paleta de cores.
-2. **Exemplo RUIM ( ):** Um site que não atende às normas de design/UX, apresentando contraste ruim, fontes ilegíveis ou poluição visual.
+1. **Exemplo BOM:** Um site que segue as boas práticas de harmonia, contraste, hierarquia tipográfica e paleta de cores.
+2. **Exemplo RUIM:** Um site que não atende às normas de design/UX, apresentando contraste ruim, fontes ilegíveis ou poluição visual.
 
 ---
 
